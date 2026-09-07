@@ -1,0 +1,46 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/dn229331-cloud/AI-2/blob/main/resumen%20de%20la%20seccion%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Resumen de la seccion 1"
+      ],
+      "metadata": {
+        "id": "jhICmGSIPDYC"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Ecosistema Tecnológico​Python Data Stack & Scikit-learn Suite: Conjunto de librerías base de Python para el procesamiento de datos y la implementación de algoritmos de aprendizaje automático.​Google Colab (Cloud): Entorno de desarrollo basado en la nube para ejecutar código y modelos sin depender del hardware local.​Git y GitHub Enterprise: Control de versiones para gestionar la colaboración, historial del código y despliegue del proyecto.​2. Preparación de Datos (Arquitectura de Datos)​Imputación: Identificación y relleno de valores faltantes o nulos para evitar sesgos o errores en el entrenamiento.​Escalamiento: Normalización de las rangos de las variables numéricas para que ninguna característica domine a otra por su magnitud.​Reducción de Dimensionalidad: Compresión del número de variables de entrada para simplificar el modelo y acelerar el procesamiento sin perder información clave.​Clasificador: Etapa final donde los datos procesados alimentan al algoritmo estimador para realizar predicciones.​3. Modelos Supervisados (Clasificación Predictiva)​Objetivos: Trabaja con datos etiquetados para tareas de Clasificación (asignar categorías) y Regresión (predecir valores numéricos).​Técnicas de Ensamble:​Bagging: Entrena múltiples árboles de decisión en paralelo para reducir la varianza (ej. Random Forest).​Boosting: Entrena modelos de forma secuencial donde cada uno corrige los errores del anterior, reduciendo el sesgo.​4. IA No Supervisada (Buscando lo Desconocido)​Objetivo: Descubrir patrones ocultos, agrupaciones o estructuras en datos sin etiquetas previas.​Algoritmos y Aplicaciones:​K-Means: Agrupa datos por similitud; aplicado en segmentación de clientes o perfiles.​DBSCAN: Agrupa elementos según la densidad de los datos; utilizado en análisis demográfico y espacial.​Isolation Forest: Aísla observaciones atípicas; especializado en la detección de anomalías y fraudes.​5. Evaluación de Modelos (Rigor en la Nube)​Métricas y Validación: Medición del rendimiento del modelo mediante métricas de calidad (como Precisión, Recall y curvas ROC).​Optimización: Ajuste de hiperparámetros para mejorar los resultados y asegurar un comportamiento óptimo antes del despliegue final"
+      ],
+      "metadata": {
+        "id": "VMyvKJsrPKnR"
+      }
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Te damos la bienvenida a Colaboratory",
+      "toc_visible": true,
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
